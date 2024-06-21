@@ -14,6 +14,8 @@ Ce projet JEE a été réalisé dans le cadre du cours **JEE** DIC3 Informatique
 
 4. **Suppression des utilisateurs** : Permet de supprimer des utilisateurs de la base de données.
 
+5. **L'authentification des utilisateurs** : Permet aux utilisateur de se connecter ou de se déconnecter sur l'application avant d'effectuer ou non des opérations.
+
 ## Structure du projet
 
 - **Sans base de données** : La première partie du projet utilise des données en mémoire.

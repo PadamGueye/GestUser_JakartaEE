@@ -1,6 +1,8 @@
 # Projet JEE - CRUD Utilisateur
+## École Supérieure Polytechnique
+### Département Génie Informatique
 
-Ce projet JEE a été réalisé dans le cadre du cours **JEE** à l'École Supérieure Polytechnique. Il utilise la syntaxe JSTL pour les pages JSP et implémente les opérations CRUD (Create, Read, Update, Delete) pour la gestion des utilisateurs.
+Ce projet JEE a été réalisé dans le cadre du cours **JEE** DIC3 Informatique. Il utilise la syntaxe JSTL pour les pages JSP et implémente les opérations CRUD (Create, Read, Update, Delete) pour la gestion des utilisateurs.
 
 ## Fonctionnalités principales
 
